@@ -1,0 +1,1 @@
+import Component from '../pages/index.jsx'; export default Component;

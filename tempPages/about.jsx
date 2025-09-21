@@ -1,0 +1,1 @@
+import Component from '../pages/about.jsx'; export default Component;

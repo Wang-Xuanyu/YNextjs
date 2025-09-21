@@ -1,0 +1,1 @@
+import Component from '../pages/blog/[id].jsx'; export default Component;

@@ -1,0 +1,1 @@
+import Component from '../pages/_app.js'; export default Component;
